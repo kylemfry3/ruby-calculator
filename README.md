@@ -24,6 +24,11 @@ SPECIAL OPERATIONS:
   pyth [USES BOTH X AND Y]: Takes x and y, in relation to the pythagorean theorem, and squares them to find Z.
   common log: Takes common log to the x
   x log base [USES BOTH X AND Y]: Takes x and multiplies it by base y to find log
-  
+
+SIMPLE OPERATIONS:
+  +: Adds x and y
+  -: Subtracts x and y
+  *: Multiplies x and y
+  /: Divides x and y
   
   ==============================================================================================================================
